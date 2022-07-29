@@ -5,3 +5,5 @@ From CLI(Command Line Interface)
 git add .
 git commit -m "HERE IS YOUR COMMIT MESSAGE"
 git push
+
+Testing git push.

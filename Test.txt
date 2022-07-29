@@ -1,1 +1,7 @@
 I Actually hate making flowers >:(
+
+From CLI(Command Line Interface)
+
+git add .
+git commit -m "HERE IS YOUR COMMIT MESSAGE"
+git push

@@ -7,3 +7,9 @@ git commit -m "HERE IS YOUR COMMIT MESSAGE"
 git push
 
 Testing git push.
+
+Shift+Alt+Down(ARROW)
+Shift+Alt+Down(ARROW) //Duplicates code down a line
+Shift+Alt+Down(ARROW)
+
+Alt+UP/DOWN //Moves a line of code up or down
